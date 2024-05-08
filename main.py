@@ -2,7 +2,7 @@ import streamlit as st
 
 def home():
     st.title('Home Page')
-    st.write('Welcome to the Home page!')
+    st.write('Welcome to the Home page mon amou!')
     st.write('Navigate to the About page using the sidebar.')
 
 def about():
